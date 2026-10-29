@@ -33,7 +33,7 @@
 
   "waypoints_vanillafied.config.hide_locator_background.desc": "Hides the vanilla locator bar background and makes the Experience bar take priority over it.",
   "waypoints_vanillafied.config.create_death_points.desc": "Whether death points are automatically created when you die.",
-  "waypoints_vanillafied.config.death_point_expiry_minutes.desc": "How many minutes a death point stays on the locator bar before it is deleted automatically. Set to 0 to keep death points until you reach them",
+  "waypoints_vanillafied.config.death_point_expiry_minutes.desc": "How many minutes a death point stays on the locator bar before it is deleted automatically. Set to 0 to keep death points until you reach them.",
   "waypoints_vanillafied.config.tooltip_mode.desc": "Controls when the waypoint name/distance tooltip is shown above the locator bar.",
   "waypoints_vanillafied.config.show_pitch_arrows.desc": "Whether pitch arrows are rendered above/below the waypoint icons."
 }

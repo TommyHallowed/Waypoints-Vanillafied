@@ -3,7 +3,7 @@
 	"id": "waypoints_vanillafied",
 	"version": "${version}",
 	"name": "Waypoints Vanillafied",
-	"description": "Client-side waypoints in vanilla style.",
+	"description": "Simple client-side waypoints in vanilla style.",
 	"authors": [
 		"TommyHallowed"
 	],
