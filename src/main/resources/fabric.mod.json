@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/waypoints-vanillafied",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/TommyHallowed/waypoints_vanillafied"
 	},
 	"license": "MIT",
 	"icon": "assets/waypoints_vanillafied/icon.png",
