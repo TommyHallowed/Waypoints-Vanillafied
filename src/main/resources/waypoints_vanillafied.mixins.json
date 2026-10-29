@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "package": "net.hallowed.waypoints.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "ExperienceBarRendererMixin",
+    "HudMixin",
+    "JumpableVehicleBarRendererMixin",
+    "LocalPlayerMixin",
+    "LocatorBarRendererMixin",
+    "WaypointStyleManagerAccessor"
+  ]
+}

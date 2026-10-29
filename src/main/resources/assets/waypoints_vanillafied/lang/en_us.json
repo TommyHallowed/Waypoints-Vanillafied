@@ -1,0 +1,39 @@
+{
+  "screen.waypoints_vanillafied.create": "create",
+  "screen.waypoints_vanillafied.manage": "Manage Waypoints",
+  "screen.waypoints_vanillafied.edit": "edit",
+
+  "key.category.waypoints_vanillafied.waypoints_vanillafied": "Waypoints Vanillafied",
+  "key.waypoints_vanillafied.open_list": "Manage Waypoints",
+  "key.waypoints_vanillafied.quick_create": "Create Waypoint",
+  "key.waypoints_vanillafied.toggle_icons": "Toggle Waypoint Visibility",
+
+  "gui.waypoints_vanillafied.name": "name",
+  "gui.waypoints_vanillafied.create": "create",
+  "gui.waypoints_vanillafied.position": "position",
+  "gui.waypoints_vanillafied.icon_style": "icon",
+  "gui.waypoints_vanillafied.color": "color",
+  "gui.waypoints_vanillafied.new": "New (N)",
+  "gui.waypoints_vanillafied.edit": "Edit (E)",
+  "gui.waypoints_vanillafied.delete": "Delete (DEL)",
+  "gui.waypoints_vanillafied.no_waypoints": "no waypoints",
+  "gui.waypoints_vanillafied.save": "save",
+
+  "waypoints_vanillafied.config.title": "Waypoints Vanillafied Config",
+  "waypoints_vanillafied.config.category.general": "General",
+  "waypoints_vanillafied.config.hide_locator_background": "Prefer Experience Bar",
+  "waypoints_vanillafied.config.create_death_points": "Death Point Creation",
+  "waypoints_vanillafied.config.death_point_expiry_minutes": "Death Point Expiry",
+  "waypoints_vanillafied.config.tooltip_mode": "Show Info Tooltip",
+  "waypoints_vanillafied.config.show_pitch_arrows": "Show Pitch Arrows",
+
+  "waypoints_vanillafied.config.tooltip_mode.tab": "Holding Tab",
+  "waypoints_vanillafied.config.tooltip_mode.always": "Always",
+  "waypoints_vanillafied.config.tooltip_mode.hidden": "Never",
+
+  "waypoints_vanillafied.config.hide_locator_background.desc": "Hides the vanilla locator bar background and makes the Experience bar take priority over it.",
+  "waypoints_vanillafied.config.create_death_points.desc": "Whether death points are automatically created when you die.",
+  "waypoints_vanillafied.config.death_point_expiry_minutes.desc": "How many minutes a death point stays on the locator bar before it is deleted automatically. Set to 0 to keep death points until you reach them",
+  "waypoints_vanillafied.config.tooltip_mode.desc": "Controls when the waypoint name/distance tooltip is shown above the locator bar.",
+  "waypoints_vanillafied.config.show_pitch_arrows.desc": "Whether pitch arrows are rendered above/below the waypoint icons."
+}

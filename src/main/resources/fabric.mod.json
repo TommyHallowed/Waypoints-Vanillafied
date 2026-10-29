@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "waypoints_vanillafied",
+	"version": "${version}",
+	"name": "Waypoints Vanillafied",
+	"description": "Client-side waypoints in vanilla style.",
+	"authors": [
+		"TommyHallowed"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/waypoints-vanillafied",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/waypoints_vanillafied/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"net.hallowed.waypoints.WaypointsVanillafied"
+		],
+		"modmenu": [
+			"net.hallowed.waypoints.client.compat.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"waypoints_vanillafied.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=21",
+		"fabric-api": "*",
+		"yet_another_config_lib_v3": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}
